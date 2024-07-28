@@ -171,40 +171,75 @@ Welcome to the Food Ordering Web Application! This project is a dynamic and styl
 
 ## Project Structure
 food-ordering-app/
+
 ├── config/
+
 │   └── config.php
+
 ├── public/
+
 │   ├── css/
+
 │   │   └── styles.css
+
 │   ├── js/
+
 │   │   └── scripts.js
+
 │   ├── images/
+
 │   ├── index.php
+
 │   ├── login.php
+
 │   ├── register.php
+
 │   ├── restaurant.php
+
 │   ├── cart.php
+
 │   ├── checkout.php
+
 │   └── profile.php
+
 ├── admin/
+
 │   ├── dashboard.php
+
 │   ├── manage_restaurants.php
+
 │   ├── manage_menus.php
+
 │   └── manage_orders.php
+
 ├── includes/
+
 │   ├── header.php
+
 │   ├── footer.php
+
 │   ├── navbar.php
+
 │   ├── db_connect.php
+
 │   ├── auth.php
+
 │   └── functions.php
+
 ├── models/
+
 │   ├── User.php
+
 │   ├── Restaurant.php
+
 │   ├── MenuItem.php
+
 │   └── Order.php
+
 └── sql/
+
     └── schema.sql
+    
 
 ## Contributing
 We welcome contributions to enhance this project! To contribute:
